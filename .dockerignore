@@ -1,0 +1,8 @@
+.git
+**/node_modules
+**/.next
+Docker/compose.yaml
+Docker/Dockerfile
+.env*
+npm-debug.log*
+.DS_Store
