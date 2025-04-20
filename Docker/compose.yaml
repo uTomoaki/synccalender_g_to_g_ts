@@ -5,6 +5,5 @@ services:
       dockerfile: Docker/Dockerfile
     volumes:
       - ../synccalender_g_to_g_ts:/app:cached
-      - /app/node_modules
     ports:
       - "3000:3000"
