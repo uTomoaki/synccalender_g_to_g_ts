@@ -1,0 +1,2 @@
+# synccalender_g_to_g_ts
+カレンダー情報をGaroonからGoogleカレンダーに同期するアプリケーション
